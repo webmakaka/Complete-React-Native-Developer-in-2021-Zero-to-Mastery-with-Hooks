@@ -1,4 +1,4 @@
-# [ZerotoMastery] Complete React Native Developer in 2021: Zero to Mastery [with Hooks][eng, 2021]
+# [ZerotoMastery] Complete React Native Developer in 2021 [with Hooks][eng, 2021]
 
 <br/>
 
@@ -7,7 +7,9 @@ https://github.com/mobinni/MealsToGo
 
 <br/>
 
-    $ npm install expo-cli --global
+    $ yarn global add expo-cli
+
+<br/>
 
     $ cd apps/app1
     $ expo init .
@@ -16,7 +18,15 @@ https://github.com/mobinni/MealsToGo
 blank
 ```
 
-    $ npm run android
+Install android studio, run Android virtual device
+
+<br/>
+
+    $ yarn android
+
+<br/>
+
+    $ yarn web
 
 <br/>
 
@@ -26,7 +36,7 @@ https://github.com/facebook/react-native/tree/master/packages/eslint-config-reac
 
 <br/>
 
-    $ npm install save-dev eslint prettier @react-native-community/eslint-config
+    $ yarn add --dev eslint prettier @react-native-community/eslint-config
 
 <br/>
 
@@ -39,6 +49,13 @@ https://github.com/facebook/react-native/tree/master/packages/eslint-config-reac
 ```
 
 <br/>
+
+    // Material UI
+    $ yarn add react-native-paper
+
+<br/>
+
+    $ yarn add styled-components
 
 ---
 
