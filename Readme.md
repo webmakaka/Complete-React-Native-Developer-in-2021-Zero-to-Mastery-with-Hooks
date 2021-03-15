@@ -57,6 +57,18 @@ https://github.com/facebook/react-native/tree/master/packages/eslint-config-reac
 
     $ yarn add styled-components
 
+<br/>
+
+https://github.com/expo/google-fonts
+
+<br/>
+
+    $ expo install expo-font
+    $ expo install @expo-google-fonts/oswald
+    $ expo install @expo-google-fonts/lato
+
+<br/>
+
 ---
 
 <br/>
