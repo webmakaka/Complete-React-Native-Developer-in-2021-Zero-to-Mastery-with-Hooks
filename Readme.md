@@ -69,6 +69,10 @@ https://github.com/expo/google-fonts
 
 <br/>
 
+    $ expo install react-native-svg
+
+<br/>
+
 ---
 
 <br/>
